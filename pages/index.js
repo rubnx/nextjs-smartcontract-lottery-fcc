@@ -20,7 +20,6 @@ export default function Home() {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             {/* header + connect button + nav bar */}
-            <h2>Decentralized Lottery</h2>
             {/* <ManualHeader /> */}
             <Header />
             <LotteryEntrance />
